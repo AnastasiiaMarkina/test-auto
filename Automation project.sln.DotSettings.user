@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=661615c2_002D863e_002D40be_002D9c10_002Ddbac7da6acc3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldSignUp #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE750E58-FE93-4923-B633-199EE9F46794::.NETCoreApp,Version=v3.1::Automation_project.Tests.SignUp.ShouldSignUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68952e5e_002D54d7_002D41e8_002D9bc1_002D2270e54f9208/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSignUp #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE750E58-FE93-4923-B633-199EE9F46794::.NETCoreApp,Version=v3.1::Automation_project.Tests.SignUp.ShouldSignUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69402104_002Dd536_002D4cbe_002D984f_002De5cdf0eb2058/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSignUp" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE750E58-FE93-4923-B633-199EE9F46794::.NETCoreApp,Version=v3.1::Automation_project.Tests.SignUp.ShouldSignUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9870cf3f_002D4992_002D43db_002D9462_002Dd6126c7bf80f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSignUp #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE750E58-FE93-4923-B633-199EE9F46794::.NETCoreApp,Version=v3.1::Automation_project.Tests.SignUp.ShouldSignUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec26e98b_002De28a_002D47ce_002Da1cc_002D1d30d71f693f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSignUp #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE750E58-FE93-4923-B633-199EE9F46794::.NETCoreApp,Version=v3.1::Automation_project.Tests.SignUp.ShouldSignUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>
